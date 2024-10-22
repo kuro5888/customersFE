@@ -1,4 +1,4 @@
-const Customers = () => {
+const Customers: React.FC = () => {
   return (
     <>
       <h1>Welcome to the customers Page</h1>
