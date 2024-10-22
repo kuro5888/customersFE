@@ -15,14 +15,12 @@ function App() {
             <li>
               <Link to="/customers">Customers</Link>
             </li>
-            {/*To do: Add further links**/}
           </ul>
         </nav>
 
         <Routes>
           <Route path="/" Component={Home} />
           <Route path="/customers" Component={Customers} />
-          {/*Add routes here **/}
         </Routes>
       </div>
     </Router>
