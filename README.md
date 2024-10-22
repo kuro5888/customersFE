@@ -1,22 +1,6 @@
-# Taro Fox
+# Customers
 
-The Taro fox project: A custom FE solution tailored for your needs
-
-# Taro Fox Project Management
-
-https://trello.com/b/DZYRFKyH/taro-fox
-
-# Push rules
-
-Format example: feature/TF-4/airbnb-linter
-
-part 1: Feature/Fix/Chore, depending on the correct example
-
-part 2: Ticket reference
-
-part 3: ticket description
-
-NEVER PUSH STRAIGHT TO MAIN WITHOUT EXPRESS PERMISSION FROM PROJECT LEAD!
+FE for customers project. Project set up is a clone of my Ube-Fox basic set up (Set to private). Aim of the project is to build a FE for
 
 # React + TypeScript + Vite
 
