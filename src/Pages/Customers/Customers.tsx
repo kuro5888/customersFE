@@ -25,6 +25,12 @@ const Customers: React.FC = () => {
         industry: "None because I'm a bum",
         __v: 0,
       },
+      {
+        _id: '670bf83ebd8772649ae773c5',
+        name: 'Henry',
+        industry: 'iGaming',
+        __v: 0,
+      },
     ],
   };
 

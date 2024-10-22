@@ -15,6 +15,9 @@ function App() {
             <li>
               <Link to="/customers">Customers</Link>
             </li>
+            <li>
+              <Link to="/adminPanel">Admin</Link>
+            </li>
           </ul>
         </nav>
 
