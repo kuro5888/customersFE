@@ -30,7 +30,7 @@ const Customers: React.FC = () => {
 
   return (
     <>
-      <h1>Welcome to the customers Page</h1>
+      <h1>Customers List</h1>
       <table>
         <tr>
           <td>Name</td>

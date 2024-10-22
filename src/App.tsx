@@ -18,10 +18,12 @@ function App() {
           </ul>
         </nav>
 
-        <Routes>
-          <Route path="/" Component={Home} />
-          <Route path="/customers" Component={Customers} />
-        </Routes>
+        <main>
+          <Routes>
+            <Route path="/" Component={Home} />
+            <Route path="/customers" Component={Customers} />
+          </Routes>
+        </main>
       </div>
     </Router>
   );
